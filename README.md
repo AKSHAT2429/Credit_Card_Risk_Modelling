@@ -1,6 +1,4 @@
-**Readme File**
-
-**Project Title: Credit Card Fraud Detection**
+**Project Title: Credit Card Risk Modelling**
 
 **Introduction:**
 
